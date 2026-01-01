@@ -1,4 +1,5 @@
 {
-    "Link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CY5WD6ZK",
-    "PngUrl": "https://github.com/ELMOUS01/Testttt/blob/main/K1NQKi5Y-o8hd.jpg?raw=true"
+    "Link1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DZ1PLFG2",
+    "Link2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DZ1PLFG2",
+    "ShowUpcomingUpdatePanel": "false"
 }
